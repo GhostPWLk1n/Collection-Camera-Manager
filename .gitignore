@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.blend
+*.blend[0-9]*
+*.zip
+dist/
+build/
